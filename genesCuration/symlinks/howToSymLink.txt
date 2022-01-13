@@ -1,0 +1,159 @@
+::::: HOW TO :::::
+
+ln -s source_file symbolic_link
+
+miller lists
+/Users/mjc014/Documents/repo/curated-gene-lists/curated-gene-lists/data/miller/byPanel/Children\'s\ Hospital\ of\ Philadelphia\ -\ Division\ of\ Genomic\ Diagnostics\ Hereditary\ MDS\ Leukemia\ Predisposition\ Panel.xlsx
+
+ln -s /Users/mjc014/Documents/repo/curated-gene-lists/curated-gene-lists/data/miller/byPanel/Children\'s\ Hospital\ of\ Philadelphia\ -\ Division\ of\ Genomic\ Diagnostics\ Hereditary\ MDS\ Leukemia\ Predisposition\ Panel.xlsx  Children\'s\ Hospital\ of\ Philadelphia\ -\ Division\ of\ Genomic\ Diagnostics\ Hereditary\ MDS\ Leukemia\ Predisposition\ Panel.xlsx
+
+Children\'s\ Hospital\ of\ Philadelphia\ -\ Division\ of\ Genomic\ Diagnostics\ Hereditary\ MDS\ Leukemia\ Predisposition\ Panel.xlsx
+
+
+::::: MAKING LINKS :::::
+
+::: MDS :::
+
+MILLER
+GeneDx\ Hereditary\ MDS\ Leukemia\ Panel.xlsx
+Invitae\ Invitae\ Myelodysplastic\ Syndrome\ Leukemia\ Panel\ -\ Primary\ +\ Preliminary-Evidence\ Genes.xlsx
+PreventionGenetics\ Hereditary\ Myelodysplastic\ Syndrome\ \ MDS\)\ \ \ Acute\ Myeloid\ Leukemia\ \ AML\)\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/Children\'s\ Hospital\ of\ Philadelphia\ -\ Division\ of\ Genomic\ Diagnostics\ Hereditary\ MDS\ Leukemia\ Predisposition\ Panel.xlsx  Children\'s\ Hospital\ of\ Philadelphia\ -\ Division\ of\ Genomic\ Diagnostics\ Hereditary\ MDS\ Leukemia\ Predisposition\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Myelodysplastic\ Syndrome\ Leukemia\ Panel\ -\ Primary\ +\ Preliminary-Evidence\ Genes.xlsx Invitae\ Invitae\ Myelodysplastic\ Syndrome\ Leukemia\ Panel\ -\ Primary\ +\ Preliminary-Evidence\ Genes.xlsx
+
+ln -s ../../data/miller/byPanel/PreventionGenetics\ Hereditary\ Myelodysplastic\ Syndrome\ \ MDS\)\ \ \ Acute\ Myeloid\ Leukemia\ \ AML\)\ Panel.xlsx PreventionGenetics\ Hereditary\ Myelodysplastic\ Syndrome\ \ MDS\)\ \ \ Acute\ Myeloid\ Leukemia\ \ AML\)\ Panel.xlsx
+
+
+::: Pedatric Cancers :::
+
+MILLER
+GeneDx\ Pediatric\ Tumor\ Panel.xlsx
+Invitae\ Invitae\ Pediatric\ Hematologic\ Malignancies\ Panel.xlsx
+Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ +\ Hereditary\ Paraganglioma-Pheochromocytoma\ Genes.xlsx
+Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ Genes\ Only.xlsx
+Invitae\ Invitae\ Pediatric\ Solid\ Tumors\ Panel.xlsx
+PerkinElmer\ Genomics\ Pediatric\ Tumor\ Panel.xlsx
+PreventionGenetics\ Pediatric\ Cancer\ Panel.xlsx
+
+PANELAPP UK
+Childhood\ solid\ tumours\ cancer\ susceptibility.xlsx
+
+ln -s ../../data/miller/byPanel/GeneDx\ Pediatric\ Tumor\ Panel.xlsx GeneDx\ Pediatric\ Tumor\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Pediatric\ Hematologic\ Malignancies\ Panel.xlsx Invitae\ Invitae\ Pediatric\ Hematologic\ Malignancies\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ +\ Hereditary\ Paraganglioma-Pheochromocytoma\ Genes.xlsx Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ +\ Hereditary\ Paraganglioma-Pheochromocytoma\ Genes.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ Genes\ Only.xlsx Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ Genes\ Only.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Pediatric\ Solid\ Tumors\ Panel.xlsx Invitae\ Invitae\ Pediatric\ Solid\ Tumors\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/PerkinElmer\ Genomics\ Pediatric\ Tumor\ Panel.xlsx PerkinElmer\ Genomics\ Pediatric\ Tumor\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/PreventionGenetics\ Pediatric\ Cancer\ Panel.xlsx PreventionGenetics\ Pediatric\ Cancer\ Panel.xlsx
+
+
+::: Pedatric Diseases :::
+
+MILLER
+GeneDx\ Pediatric\ Tumor\ Panel.xlsx
+Invitae\ Invitae\ Pediatric\ Hematologic\ Malignancies\ Panel.xlsx
+Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ +\ Hereditary\ Paraganglioma-Pheochromocytoma\ Genes.xlsx
+Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ Genes\ Only.xlsx
+Invitae\ Invitae\ Pediatric\ Solid\ Tumors\ Panel.xlsx
+PerkinElmer\ Genomics\ Pediatric\ Tumor\ Panel.xlsx
+PreventionGenetics\ Pediatric\ Cancer\ Panel.xlsx
+
+PANELAPP AU
+Ataxia\ -\ paediatric.xlsx
+Cardiomyopathy_Paediatric.xlsx
+Leukodystrophy\ -\ paediatric.xlsx
+Maturity-onset\ Diabetes\ of\ the\ Young.xlsx
+Myopathy\ -\ paediatric\ onset.xlsx
+Pharmacogenomics_Paediatric.xlsx
+
+PANELAPP UK
+Cardiomyopathies\ -\ including\ childhood\ onset.xlsx
+Growth\ failure\ in\ early\ childhood.xlsx
+Hereditary\ ataxia\ and\ cerebellar\ anomalies\ -\ childhood\ onset.xlsx
+Hereditary\ spastic\ paraplegia\ -\ childhood\ onset.xlsx
+Lipodystrophy\ -\ childhood\ onset.xlsx
+Paediatric\ disorders\ -\ additional\ genes.xlsx
+Paediatric\ disorders.xlsx
+Severe\ Paediatric\ Disorders.xlsx
+Unexplained\ paediatric\ onset\ end-stage\ renal\ disease.xlsx
+White\ matter\ disorders\ -\ childhood\ onset.xlsx
+
+ln -s /Users/mjc014/Documents/repo/curated-gene-lists/curated-gene-lists/data/miller/byPanel/
+ln -s /Users/mjc014/Documents/repo/curated-gene-lists/curated-gene-lists/data/panelapp/au/
+ln -s /Users/mjc014/Documents/repo/curated-gene-lists/curated-gene-lists/data/panelapp/uk/
+
+ln -s ../../data/miller/byPanel/GeneDx\ Pediatric\ Tumor\ Panel.xlsx GeneDx\ Pediatric\ Tumor\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Pediatric\ Hematologic\ Malignancies\ Panel.xlsx Invitae\ Invitae\ Pediatric\ Hematologic\ Malignancies\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ +\ Hereditary\ Paraganglioma-Pheochromocytoma\ Genes.xlsx Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ +\ Hereditary\ Paraganglioma-Pheochromocytoma\ Genes.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ Genes\ Only.xlsx Invitae\ Invitae\ Pediatric\ Nervous\ System\ Brain\ Tumors\ Panel\ -\ Primary\ Genes\ Only.xlsx
+
+ln -s ../../data/miller/byPanel/Invitae\ Invitae\ Pediatric\ Solid\ Tumors\ Panel.xlsx Invitae\ Invitae\ Pediatric\ Solid\ Tumors\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/PerkinElmer\ Genomics\ Pediatric\ Tumor\ Panel.xlsx PerkinElmer\ Genomics\ Pediatric\ Tumor\ Panel.xlsx
+
+ln -s ../../data/miller/byPanel/PreventionGenetics\ Pediatric\ Cancer\ Panel.xlsx PreventionGenetics\ Pediatric\ Cancer\ Panel.xlsx
+
+
+ln -s ../../data/panelapp/au/Ataxia\ -\ paediatric.xlsx Ataxia\ -\ paediatric.xlsx
+
+ln -s ../../data/panelapp/au/Cardiomyopathy_Paediatric.xlsx Cardiomyopathy_Paediatric.xlsx
+
+ln -s ../../data/panelapp/au/Leukodystrophy\ -\ paediatric.xlsx Leukodystrophy\ -\ paediatric.xlsx
+
+ln -s ../../data/panelapp/au/Maturity-onset\ Diabetes\ of\ the\ Young.xlsx Maturity-onset\ Diabetes\ of\ the\ Young.xlsx
+
+ln -s ../../data/panelapp/au/Myopathy\ -\ paediatric\ onset.xlsx Myopathy\ -\ paediatric\ onset.xlsx
+
+ln -s ../../data/panelapp/au/Pharmacogenomics_Paediatric.xlsx Pharmacogenomics_Paediatric.xlsx
+
+
+ln -s ../../data/panelapp/uk/Cardiomyopathies\ -\ including\ childhood\ onset.xlsx Cardiomyopathies\ -\ including\ childhood\ onset.xlsx
+
+ln -s ../../data/panelapp/uk/Growth\ failure\ in\ early\ childhood.xlsx Growth\ failure\ in\ early\ childhood.xlsx
+
+ln -s ../../data/panelapp/uk/Hereditary\ ataxia\ and\ cerebellar\ anomalies\ -\ childhood\ onset.xlsx Hereditary\ ataxia\ and\ cerebellar\ anomalies\ -\ childhood\ onset.xlsx
+
+ln -s ../../data/panelapp/uk/Hereditary\ spastic\ paraplegia\ -\ childhood\ onset.xlsx Hereditary\ spastic\ paraplegia\ -\ childhood\ onset.xlsx
+
+ln -s ../../data/panelapp/uk/Lipodystrophy\ -\ childhood\ onset.xlsx Lipodystrophy\ -\ childhood\ onset.xlsx
+
+ln -s ../../data/panelapp/uk/Paediatric\ disorders\ -\ additional\ genes.xlsx Paediatric\ disorders\ -\ additional\ genes.xlsx
+
+ln -s ../../data/panelapp/uk/Paediatric\ disorders.xlsx Paediatric\ disorders.xlsx
+
+ln -s ../../data/panelapp/uk/Severe\ Paediatric\ Disorders.xlsx Severe\ Paediatric\ Disorders.xlsx
+
+ln -s ../../data/panelapp/uk/Unexplained\ paediatric\ onset\ end-stage\ renal\ disease.xlsx Unexplained\ paediatric\ onset\ end-stage\ renal\ disease.xlsx
+
+ln -s ../../data/panelapp/uk/White\ matter\ disorders\ -\ childhood\ onset.xlsx White\ matter\ disorders\ -\ childhood\ onset.xlsx
+
+::: Epilepsy :::
+
+MILLER
+
+PANEL AU
+Genetic\ Epilepsy.xlsx
+
+PANEL UK
+Genetic\ epilepsy\ syndromes.xlsx
+
+
+
+ln -s ../../data/miller/byPanel/
+ln -s ../../data/panelapp/au/
+ln -s ../../data/panelapp/uk/
+
+ln -s ../../data/panelapp/au/Genetic\ Epilepsy.xlsx Genetic\ Epilepsy.xlsx
+
+ln -s ../../data/panelapp/uk/Genetic\ epilepsy\ syndromes.xlsx Genetic\ epilepsy\ syndromes.xlsx
